@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "315402642077",
+    "firebase_url": "https://bitirmeyeni-default-rtdb.firebaseio.com",
+    "project_id": "bitirmeyeni",
+    "storage_bucket": "bitirmeyeni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315402642077:android:3d49f50e250efa55e02a74",
+        "android_client_info": {
+          "package_name": "com.example.hilmican_proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315402642077-tresj021fbfte4g5fqaopnm2f15gv5ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBYAq3skaNMMfSOxbXkgADnS5ETqrnG_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315402642077-tresj021fbfte4g5fqaopnm2f15gv5ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

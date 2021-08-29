@@ -1,0 +1,20 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.14.4/
+cloud_firestore_web=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-0.2.1+2/
+firebase_analytics=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-6.3.0/
+firebase_analytics_web=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics_web-0.1.1/
+firebase_auth=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.18.4+1/
+firebase_auth_web=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-0.3.2+3/
+firebase_core=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.5.3/
+firebase_core_web=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.2.1+1/
+firebase_database=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-4.4.0/
+firebase_storage=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-5.2.0/
+firebase_storage_web=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage_web-0.1.1+1/
+flutter_blue=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_blue-0.7.3/
+flutter_local_notifications=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-3.0.2/
+flutter_plugin_android_lifecycle=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11/
+fluttertoast=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-7.1.8/
+geolocator=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-6.1.14/
+google_maps_flutter=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-1.1.1/
+permission_handler=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-5.0.1+1/
+workmanager=/Users/hilmicanyuksel/development/flutter/.pub-cache/hosted/pub.dartlang.org/workmanager-0.2.3/
